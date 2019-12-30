@@ -1,0 +1,18 @@
+
+19:23 20.08.2019
+
+This program is simple To Do List.
+You add, delete or view your list using commands.
+
+COMMANDS:
+--------------------------------------------------------------------
+add Element To Add Name - Adding new element
+-------------------------------------------------------------------
+delete Element To Delete Name - Deleting element
+-------------------------------------------------------------------
+exit - Exit program and save data
+------------------------------------------------------------------
+clear - Clearing list
+-------------------------------------------------------------------
+print agrument - Program starts in special print mode(No input only
+				 print and program end).
