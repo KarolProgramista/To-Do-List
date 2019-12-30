@@ -1,1 +1,1 @@
-ToDoList = ["Do homework"]
+ToDoList = []
